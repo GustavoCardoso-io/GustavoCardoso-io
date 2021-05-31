@@ -4,6 +4,10 @@
 - 💞️ I am about to add up in an opportunity that may arise, dedicating my time to my best.
 - 📫 LinkDin: https://www.linkedin.com/in/gustavo-cardoso-67b556187/
 
+
+
+
+
 - 👋 Olá, eu sou @GustavoCardoso-io, ou Gustavo Cardoso! :D
 - 👀 Estou interessado em trabalhar na area de programação de jogos eletronicos porém, quero atuar em programação a 
 - 🌱 Estou aprendendo sobre desenvolvimento de jogos eletronicos na  Unity Engine, e um pouco de desing.
