@@ -1,4 +1,4 @@
-- 👋 Olá, eu sou @GustavoCardoso-io, ou Gustavo Cardoso! :D
+- 👋 Olá, eu sou Gustavo Cardoso! :D
 - 👀 Estou interessado em trabalhar na área de programação de jogos eletronicos mas estou abertos para outras areas de desenvolviemento.
 - 🌱 Estou aprendendo sobre desenvolvimento de jogos eletronicos na  Unity Engine, e um pouco de desing.
 - 💞️ Estou para somar em uma oportunidade que possa surgir, dedicando o meu tempo para o meu melhor.
