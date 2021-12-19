@@ -28,13 +28,13 @@ object **Gustavo** {
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/> </a>
 <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>
 <a href="https://unity.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original-wordmark.svg" alt="unity" width="40" height="40"/> </a>
-<a href="https://unity.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
- 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<a href="https://unity.com/how-to/learning-c-sharp-unity-beginners" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
+ <a href="https://www.php.net/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
+ <a href="https://nodejs.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png"></code>
 </p>
-### 🏆 Github Troféus
 
+### Github Troféus
 <p>
  
 ![trophy](https://github-profile-trophy.vercel.app/?username=GustavoCardoso-io&margin-w=15theme=dark)
@@ -43,7 +43,7 @@ object **Gustavo** {
 <hr>
 <br />
 
-## **GitHub Estatísticas**
+### GitHub Estatísticas
 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=GustavoCardoso-io&show_icons=true&theme=buefy&count_private=true" alt="my github stats" width="420"/>
@@ -52,9 +52,8 @@ object **Gustavo** {
 </div>
 
 
-[linkedin]: https://www.linkedin.com/in/gustavo-cardoso-67b556187/
-<br>
-
-#### Rede Sociais!
-
-👔 [LinkedIn][linkedin]
+### Rede Sociais!
+<p align="left">
+<a href="https://www.linkedin.com/in/gustavo-cardoso-67b556187/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="php" width="40" height="40"/> </a>
+<a href="https://github.com/GustavoCardoso-io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a>
+ </p>
