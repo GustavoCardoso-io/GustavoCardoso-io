@@ -47,4 +47,4 @@ object **Gustavo** {
 
 #### Rede Sociais!
 
-👔 [linkedin][linkedin]
+👔 [LinkedIn][linkedin]
