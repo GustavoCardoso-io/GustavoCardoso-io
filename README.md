@@ -3,8 +3,8 @@
 <a href="https://app.daily.dev/GustavoCardosio"><img src="https://api.daily.dev/devcards/ac3987b08cd34032a3938e849726d024.png?r=7fy" width="300" align="right" alt="Gustavo Cardoso's Dev Card"/></a>
 <br />
 
-- 🌱Atualmente estou aprendendo Desenvolvimento Full Stack
-- 👯Estou procurando colaborar em projetos de desenvolvimento web e Programador de Jogos
+- 🌱Atualmente estou aprendendo Desenvolvimento Full Stack, atualmente estou me aprofundo em PHP, Laravel e Livewire!
+- 👯Estou procurando colaborar em projetos de desenvolvimento web!
 - ⚡ Curiosidade: Estou confuuso, você pode me ajudar?? Talvez com a cor do site!
 </div>
 
